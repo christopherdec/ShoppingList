@@ -1,8 +1,8 @@
 # ShoppingList 🛒
 
-A simple yet modern Android shopping list app built with Jetpack Compose and Material Design 3, featuring persistent local storage and a clean MVVM architecture.
+A simple Android shopping list app built with Kotlin, Jetpack Compose and Material Design 3, featuring persistent local storage and a clean MVVM architecture.
 
-![Demo](demo.mp4)
+https://github.com/user-attachments/assets/79b5734f-0720-4fef-adc1-4dd56c915304
 
 ## ✨ Features
 
